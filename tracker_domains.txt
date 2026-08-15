@@ -1,0 +1,25 @@
+# Common analytics / tracking domains. One host (or host fragment) per line.
+google-analytics.com
+googletagmanager.com
+scorecardresearch.com
+quantserve.com
+moatads.com
+chartbeat.com
+hotjar.com
+mixpanel.com
+segment.io
+amplitude.com
+mouseflow.com
+crazyegg.com
+appsflyer.com
+branch.io
+flurry.com
+adjust.com
+kochava.com
+tapad.com
+bluekai.com
+exelator.com
+demdex.net
+everesttech.net
+newrelic.com
+fullstory.com

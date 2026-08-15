@@ -1,0 +1,43 @@
+# Common ad-serving domains. One host (or host fragment) per line.
+# Lines starting with # are ignored. Edit freely — this list is
+# intentionally small and easy to audit; extend it as you like.
+doubleclick.net
+googlesyndication.com
+googleadservices.com
+adservice.google.com
+googletagservices.com
+adnxs.com
+adsrvr.org
+adroll.com
+taboola.com
+outbrain.com
+criteo.com
+criteo.net
+amazon-adsystem.com
+media.net
+pubmatic.com
+rubiconproject.com
+openx.net
+casalemedia.com
+contextweb.com
+bidswitch.net
+mathtag.com
+adform.net
+smartadserver.com
+yieldmo.com
+sharethrough.com
+indexexchange.com
+spotxchange.com
+teads.tv
+advertising.com
+zedo.com
+adcolony.com
+vungle.com
+applovin.com
+unityads.unity3d.com
+chartboost.com
+ironsrc.com
+mopub.com
+inmobi.com
+startapp.com
+smaato.com
